@@ -1,0 +1,4 @@
+reports/** linguist-generated=true
+pages/** linguist-generated=true
+__pycache__/** linguist-generated=true
+*.html linguist-generated=true
